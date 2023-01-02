@@ -1,3 +1,3 @@
-include_rules = [
-  "+third_party/rnnoise",
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d75c41d2cb8e2ebee7819c293aea853b867763ae6696b65a1862b1411135d943
+size 46

@@ -1,11 +1,3 @@
-specific_include_rules = {
-  "mutex_abseil\.h": [
-    "+absl/synchronization"
-  ],
-  ".*_benchmark\.cc": [
-    "+benchmark",
-  ],
-  ".*_unittest\.cc": [
-    "+benchmark",
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:417c87e5cffdb7a4da3b4303e04f2b027e4078c47b5a56ffa11bc1791bdd7f56
+size 177

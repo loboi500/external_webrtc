@@ -1,3 +1,3 @@
-include_rules = [
-  "+media",
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6dbf867a9a9694e495ebb7d0df1f43c26fd87acfb0747e69baf16c8c7360498
+size 32

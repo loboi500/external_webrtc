@@ -1,17 +1,3 @@
-# Copyright (c) 2018 The WebRTC project authors. All Rights Reserved.
-#
-# Use of this source code is governed by a BSD-style license
-# that can be found in the ../../../LICENSE file in the root of the source
-# tree. An additional intellectual property rights grant can be found
-# in the file PATENTS.  All contributing project authors may
-# be found in the AUTHORS file in the root of the source tree.
-
-import("../../../webrtc.gni")
-
-rtc_library("sigslot") {
-  visibility = [ "*" ]
-  sources = [
-    "sigslot.cc",
-    "sigslot.h",
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb6dd0dab0f9ed8fdf5893f7f8601764aa19f9d6dccd2ffdc909764e51369035
+size 537

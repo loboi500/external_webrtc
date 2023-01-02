@@ -1,7 +1,3 @@
-You can modify this file to create no-op changelists.
-Try to write something funny. And please don't add trailing whitespace.
-
-Once upon a time there was an elephant in Stockholm.
-Everyone knew about it, but nobody dared say anything.
-In the end it didn't make a difference since everyone was working from home.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce2efbeb5b8f3d9bd5b66982d3f456cb4a12dc12c852eb9f0c77429788c731ca
+size 313

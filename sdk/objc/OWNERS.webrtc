@@ -1,9 +1,3 @@
-# Normal code changes.
-kthelgason@webrtc.org
-andersc@webrtc.org
-peterhanspers@webrtc.org
-denicija@webrtc.org
-
-# Rubberstamps of e.g. reverts and critical bug fixes.
-magjed@webrtc.org
-tkchin@webrtc.org
+version https://git-lfs.github.com/spec/v1
+oid sha256:68a38cd7a907a6d62405dfb98e42f0081b05c25fc5e50d3a12958b328cc16eda
+size 201

@@ -1,10 +1,3 @@
-specific_include_rules = {
-  ".*\.h": [
-    "+third_party/absl/types/optional.h",
-  ],
-
-  "voip_engine_factory.h": [
-    "+modules/audio_device/include/audio_device.h",
-    "+modules/audio_processing/include/audio_processing.h",
-  ],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b18b5d8afb6db6d2c0fa982f58a4b4c6cd65784824b6e2d2d53491ae1831f935
+size 236

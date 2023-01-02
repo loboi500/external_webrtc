@@ -1,7 +1,3 @@
-specific_include_rules = {
-  "resource\.h": [
-    # ref_count.h is a public_deps of rtc_base_approved. Necessary because of
-    # rtc::RefCountInterface.
-    "+rtc_base/ref_count.h",
-  ],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6bd7fd5f6f01d34676539ef72c9628bd1ce72d943b7ac95ddf6e0dbd511b00f
+size 189

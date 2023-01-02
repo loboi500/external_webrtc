@@ -1,11 +1,3 @@
-Name: A simple base64 encoder and decoder
-Short Name: base64
-URL:
-Version: 0
-Date: 2018-06-20
-License: Custom license
-License File: LICENSE
-Security Critical: yes
-
-Description:
-A simple base64 encoder and decoder
+version https://git-lfs.github.com/spec/v1
+oid sha256:a24131cebe54aca387a5750b49b2facb78b5f94d06c5bb6f10869ca3a8705cb9
+size 213

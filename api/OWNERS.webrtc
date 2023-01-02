@@ -1,14 +1,3 @@
-crodbro@webrtc.org
-deadbeef@webrtc.org
-hta@webrtc.org
-juberti@webrtc.org
-kwiberg@webrtc.org
-magjed@webrtc.org
-perkj@webrtc.org
-tkchin@webrtc.org
-tommi@webrtc.org
-
-per-file peer_connection*=hbos@webrtc.org
-
-per-file DEPS=mbonadei@webrtc.org
-per-file DEPS=kwiberg@webrtc.org
+version https://git-lfs.github.com/spec/v1
+oid sha256:49a9ebd46cf8af759082274454a94eb622d8c11af57e35369c4c6cf61ee99971
+size 273

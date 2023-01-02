@@ -1,11 +1,3 @@
-Name: In line A-law and u-law conversion routines
-Short Name: g711
-URL:
-Version: 0
-Date: 2018-06-25
-License: Custom license
-License File: LICENSE
-Security Critical: yes
-
-Description:
-In line A-law and u-law conversion routines
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa557840e6e1940486f1c356bb3037ee8b1622fb0be8468ef3d45b6900c00b1d
+size 227

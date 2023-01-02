@@ -1,7 +1,3 @@
-# Build overrides in GN
-
-This directory is used to allow us to customize variables that differ between
-WebRTC being built as standalone and as a part of Chromium.
-
-There's another build_overrides in Chromium that needs to contain the same
-set of files with the same set of variables (but with different values).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d9cf9add69a4506d1331bb7c092673db5ac5297e20f4a8f273aefbcde562014
+size 312

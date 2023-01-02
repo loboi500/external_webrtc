@@ -1,15 +1,3 @@
-include_rules = [
-  "+base/third_party/libevent",
-  "+json",
-  "+system_wrappers",
-  "+third_party/jsoncpp",
-]
-
-specific_include_rules = {
-  "protobuf_utils.h": [
-    "+third_party/protobuf",
-  ],
-  "gunit\.h": [
-    "+testing/base/public/gunit.h"
-  ],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2d08f90803ce0186dc98c886c4f922e2e8a7282769789d1e8c3698d3b3c5079
+size 255

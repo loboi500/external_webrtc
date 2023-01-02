@@ -1,12 +1,3 @@
-Name: sql sqrt floor
-Short Name: sql_sqrt_floor
-URL: http://www.pertinentdetail.org/sqrt
-Version: 0
-Date: 2018-03-22
-License: Custom license
-License File: LICENSE
-Security Critical: yes
-
-Description:
-Sqrt routine, originally was posted to the USENET group comp.sys.arm on
-20 Jun 1996.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8be32587e6f5c76fe4f4051de9452eb1d0fe976e369965de8ab1ccfb10cb2d48
+size 285

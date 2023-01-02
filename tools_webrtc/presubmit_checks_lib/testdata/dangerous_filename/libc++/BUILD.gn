@@ -1,11 +1,3 @@
-# Copyright (c) 2017 The WebRTC project authors. All Rights Reserved.
-#
-# Use of this source code is governed by a BSD-style license
-# that can be found in the LICENSE file in the root of the source
-# tree. An additional intellectual property rights grant can be found
-# in the file PATENTS.  All contributing project authors may
-# be found in the AUTHORS file in the root of the source tree.
-
-group("dummy_subpackage") {
-  sources = [ "dummy_subpackage.h" ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aa63c4bbafdfc055363607e76ee99a249015d3303ffbd1fc47941fadc559519
+size 461

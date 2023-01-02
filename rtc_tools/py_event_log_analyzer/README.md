@@ -1,26 +1,3 @@
-# RTP log analyzer
-This file describes how to set up and use the RTP log analyzer.
-
-## Build
-
-```shell
-$ autoninja -C out/my_build webrtc:rtp_analyzer
-```
-
-## Usage
-
-```shell
-./out/my_build/rtp_analyzer.sh [options] /path/to/rtc_event.log
-```
-
-where `/path/to/rtc_event.log` is a recorded RTC event log, which is stored in
-protobuf format. Such logs are generated in multiple ways, e.g. by Chrome
-through the chrome://webrtc-internals page.
-
-Use `--help` for the options.
-
-The script requires Python (2.7 or 3+) and it has the following dependencies:
-Dependencies (available on pip):
-- matplotlib (http://matplotlib.org/)
-- numpy (http://www.numpy.org/)
-- protobuf (https://pypi.org/project/protobuf/)
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b72cb9eb48ce5c2ed9b0b8e8d14be35ad469048d9794a6e891fc49787388156
+size 702

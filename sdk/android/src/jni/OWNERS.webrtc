@@ -1,4 +1,3 @@
-per-file androidhistogram.cc=sakal@webrtc.org
-per-file androidmetrics.cc=sakal@webrtc.org
-per-file androidvideotracksource.*=sakal@webrtc.org
-per-file androidvideotracksource.cc=sakal@webrtc.org
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fb71ad4bdfabe6adb7de92787c77d912a7e63151cf30db62f972a76c53dbe0e
+size 195

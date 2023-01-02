@@ -1,25 +1,3 @@
-# Copyright (c) 2020 The WebRTC project authors. All Rights Reserved.
-#
-# Use of this source code is governed by a BSD-style license
-# that can be found in the LICENSE file in the root of the source
-# tree. An additional intellectual property rights grant can be found
-# in the file PATENTS.  All contributing project authors may
-# be found in the AUTHORS file in the root of the source tree.
-
-import("../../webrtc.gni")
-
-if (rtc_include_tests) {
-  rtc_library("pc_scenario_tests") {
-    testonly = true
-    sources = [ "goog_cc_test.cc" ]
-    deps = [
-      "../../api:rtc_stats_api",
-      "../../modules/rtp_rtcp:rtp_rtcp",
-      "../../pc:pc_test_utils",
-      "../../pc:rtc_pc_base",
-      "../../test:field_trial",
-      "../../test:test_support",
-      "../../test/peer_scenario:peer_scenario",
-    ]
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:70831476dbe2352f91f32d3554ebfbbbe085f9ef7bd8fad1b8a2cc4264f6f794
+size 814

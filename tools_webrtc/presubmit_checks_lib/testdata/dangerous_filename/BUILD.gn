@@ -1,13 +1,3 @@
-# Copyright (c) 2017 The WebRTC project authors. All Rights Reserved.
-#
-# Use of this source code is governed by a BSD-style license
-# that can be found in the LICENSE file in the root of the source
-# tree. An additional intellectual property rights grant can be found
-# in the file PATENTS.  All contributing project authors may
-# be found in the AUTHORS file in the root of the source tree.
-
-# "libc++" is considered a "dangerous filename" because it's an invalid regex.
-
-target("dummy_target") {
-  sources = [ "libc++/dummy_subpackage_file.h" ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa7bf18951a895ed49f63f42bacb2c1ef7aab7bfeb8f7118198f43b4b94025ac
+size 550

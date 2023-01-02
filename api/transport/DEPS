@@ -1,7 +1,3 @@
-specific_include_rules = {
-  "stun\.h": [
-    "+rtc_base/byte_buffer.h",
-    "+rtc_base/ip_address.h",
-    "+rtc_base/socket_address.h",
-  ],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:24b6b1d6043a97a4e4b277fdb4a6e909528a11c2ccffe9c0979145db8f2f4ae1
+size 144

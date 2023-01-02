@@ -1,14 +1,3 @@
-//*********************************************************************
-//* Base64 - a simple base64 encoder and decoder.
-//*
-//*     Copyright (c) 1999, Bob Withers - bwit@pobox.com
-//*
-//* This code may be freely used for any purpose, either personal
-//* or commercial, provided the authors copyright notice remains
-//* intact.
-//*
-//* Enhancements by Stanley Yamane:
-//*     o reverse lookup table for the decode function
-//*     o reserve string buffer space in advance
-//*
-//*********************************************************************
+version https://git-lfs.github.com/spec/v1
+oid sha256:a508773ebf00f8c777a910e941e5fd0072195843e1b72a90eb8787d26d4ab1d7
+size 550

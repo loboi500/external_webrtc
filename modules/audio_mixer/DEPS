@@ -1,13 +1,3 @@
-include_rules = [
-  "+audio/utility/audio_frame_operations.h",
-  "+audio/utility/channel_mixer.h",
-  "+call",
-  "+common_audio",
-  "+modules/audio_coding",
-  "+modules/audio_device",
-  "+modules/audio_processing",
-  "+modules/pacing",
-  "+modules/rtp_rtcp",
-  "+modules/utility",
-  "+system_wrappers",
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d171c8a249e1b4956ed888e4ee7d500ef67015fb45a38791f0993e372e733367
+size 304

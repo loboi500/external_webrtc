@@ -1,11 +1,3 @@
-Name: The ITU G.722 codec, encode and decode part.
-Short Name: g722
-URL:
-Version: 0
-Date: 2018-06-25
-License: Custom license
-License File: LICENSE
-Security Critical: yes
-
-Description:
-The ITU G.722 codec, encode and decode part.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3e6c23e11ed63004f0180314566f240624a340a357df860d9cd1dd845f189d7
+size 229

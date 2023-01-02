@@ -1,7 +1,3 @@
-specific_include_rules = {
-  ".*": [
-    "+rtc_base/socket_address.h",
-    "+rtc_base/ip_address.h",
-    "+rtc_base/copy_on_write_buffer.h",
-  ],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6bf94e40213bd9749e84dbe52eadffbdc78981527e695ebcbc2f0e00403e26a
+size 148

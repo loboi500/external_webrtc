@@ -1,6 +1,3 @@
-include_rules = [
-  "+logging/rtc_event_log",
-  "+system_wrappers",
-  # Avoid directly using field_trial. Instead use WebRtcKeyValueConfig.
-  "-system_wrappers/include/field_trial.h",
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:04dc827f41d8e04de897edc33956fd1237897e525ecee02ec0c3e8f5701dcb0d
+size 186

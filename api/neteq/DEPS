@@ -1,14 +1,3 @@
-specific_include_rules = {
-  "custom_neteq_factory\.h": [
-    "+system_wrappers/include/clock.h",
-  ],
-  "default_neteq_factory\.h": [
-    "+system_wrappers/include/clock.h",
-  ],
-  "neteq_controller\.h": [
-    "+system_wrappers/include/clock.h",
-  ],
-  "neteq_factory\.h": [
-    "+system_wrappers/include/clock.h",
-  ],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:01af08258d695227d1727ade3caf63538a555d4563c668f6330d5ddcef0fb03a
+size 323

@@ -1,6 +1,3 @@
-include_rules = [
-  "+logging/rtc_event_log/rtc_event_log_factory.h",
-  "+media/base",
-  "+media/engine",
-  "+modules/audio_processing/include/audio_processing.h",
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2453f8ad0eeb2a844fc61aeecbcfb929d5bf078175e729b443542077501170cf
+size 166
